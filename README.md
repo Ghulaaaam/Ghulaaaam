@@ -78,7 +78,7 @@ Early-career Data Analyst and Data Scientist with practical experience in data a
 ## Contact
 
 - **Email:** [achmadghulaam@gmail.com](mailto:achmadghulaam@gmail.com)
-- **LinkedIn:** [Achmad Ghulam Habib Alwidani](https://www.linkedin.com/in/achmad-ghulam-habib-al-widani-479b56255)
+- **LinkedIn:** [Achmad Ghulam Habib Al-Widani](https://www.linkedin.com/in/achmad-ghulam-habib-al-widani-479b56255)
 
 
 
