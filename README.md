@@ -74,10 +74,12 @@ Early-career Data Analyst and Data Scientist with practical experience in data a
 
 ---
 
+
 ## Contact
 
-Email: [your_email@gmail.com](achmadghulaam@gmail.com)
-LinkedIn: [https://www.linkedin.com/in/your-linkedin/](www.linkedin.com/in/achmad-ghulam-479b56255)
+- **Email:** [achmadghulaam@gmail.com](mailto:achmadghulaam@gmail.com)
+- **LinkedIn:** [Achmad Ghulam](https://www.linkedin.com/in/achmad-ghulam-479b56255)
+
 
 
 <!--
